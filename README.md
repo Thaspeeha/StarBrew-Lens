@@ -4,7 +4,7 @@
 ##  🕶️☕ StarBrew Lens - An AR Powered Ordering Experience
 
 ## 🌍 The Challenge
-Create the future Starbucks Digital Experience for Dubai
+Create the future Starbucks Digital Experience for Dubai.
 
 ## 🧠 What This Hackathon Is About
 Starbucks aims to elevate the digital customer experience in Dubai: a city known for innovation, speed, and cutting-edge technology.
