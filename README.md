@@ -3,7 +3,7 @@
 ## 🌍 The Challenge
 Create the future Starbucks Digital Experience for Dubai
 
-## ☕ What This Hackathon Is About
+## 🧠 What This Hackathon Is About
 Starbucks aims to elevate the digital customer experience in Dubai: a city known for innovation, speed, and cutting-edge technology.
 With META platforms such as Instagram WhatsApp, and Facebook, students can use tools like AL, chatbots, AR filters, and digital engineering to imagine a new way for customers to connect with Starbucks.
 
@@ -19,7 +19,7 @@ Design a creative Augmented Reality (AR) experience
 - 🎮 **AR Mini-Game Inspired by Dubai Icons**
 - 🤳 **Lifestyle Selfie Filters**
 
-## ☕ StarBrew Lens — AR Powered Ordering Experience
+## 🛠️ Our Project
 
 Busy morning workers often waste time in long queues, while static menus slow down decision-making.  
 **StarBrew Lens** uses **Augmented Reality (AR)** to make Starbucks ordering **faster, more fun, and highly personalized**.
