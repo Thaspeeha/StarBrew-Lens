@@ -58,3 +58,7 @@ Busy morning workers often waste time in long queues, while static menus slow do
 ## 🎥 Watch the Project Video
 [Watch the video](https://www.canva.com/design/DAG7kz6Vv30/5gRNnzEN2DjvOkaRdCFegA/watch?utm_content=DAG7kz6Vv30&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h912862d16f)
 
+## 📜 License
+
+This project is licensed for **educational and research purposes only**.  
+Commercial use is **not permitted** without prior authorization.
