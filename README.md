@@ -1,4 +1,4 @@
-# StarBrew-Lens
+#  🕶️☕ StarBrew-Lens
 
 ## 🌍 The Challenge
 Create the future Starbucks Digital Experience for Dubai
