@@ -1,4 +1,4 @@
-#  🕶️☕ StarBrew-Lens
+#  🕶️☕ StarBrew Lens - An AR Powered Ordering Experience
 
 ## 🌍 The Challenge
 Create the future Starbucks Digital Experience for Dubai
