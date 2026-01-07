@@ -19,7 +19,7 @@ Design a creative Augmented Reality (AR) experience
 - 🎮 **AR Mini-Game Inspired by Dubai Icons**
 - 🤳 **Lifestyle Selfie Filters**
 
-## ☕ StarBrew Lens — AR-Powered Ordering Experience
+## ☕ StarBrew Lens — AR Powered Ordering Experience
 
 Busy morning workers often waste time in long queues, while static menus slow down decision-making.  
 **StarBrew Lens** uses **Augmented Reality (AR)** to make Starbucks ordering **faster, more fun, and highly personalized**.
