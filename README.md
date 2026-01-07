@@ -1,4 +1,6 @@
-#  🕶️☕ StarBrew Lens - An AR Powered Ordering Experience
+# 🌍 Student Hackathon 2025 
+
+##  🕶️☕ StarBrew Lens - An AR Powered Ordering Experience
 
 ## 🌍 The Challenge
 Create the future Starbucks Digital Experience for Dubai
