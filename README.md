@@ -60,7 +60,7 @@ Busy morning workers often waste time in long queues, while static menus slow do
 
 ## 👥 Contributors
 [![Subeha Nasreen](https://img.shields.io/badge/Subeha-Nasreen-purple)](https://www.linkedin.com/in/subeha-nasreen-96b0aa2b9/)
-[![Jephia Robart](https://img.shields.io/badge/Jephia-Robart-purple)](https://www.linkedin.com/in/jephia-robart-06605232a/)
+[![Jephia Robart](https://img.shields.io/badge/Jephia-Robart-blue)](https://www.linkedin.com/in/jephia-robart-06605232a/)
 
 ## 📜 License
 
