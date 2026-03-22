@@ -62,6 +62,10 @@ Busy morning workers often waste time in long queues, while static menus slow do
 [![Subeha Nasreen](https://img.shields.io/badge/Subeha-Nasreen-purple)](https://www.linkedin.com/in/subeha-nasreen-96b0aa2b9/)
 [![Jephia Robart](https://img.shields.io/badge/Jephia-Robart-blue)](https://www.linkedin.com/in/jephia-robart-06605232a/)
 
+## 🚀 My Certificate
+
+[![Certificate](https://img.shields.io/badge/StarBrewLens-Certificate-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaspeeha-vahithu-a139b627a/details/certifications/1766324201532/single-media-viewer/?profileId=ACoAAEQitS8B9Zd9iJzEX1DtzEumSWLNC8Z3hxw)
+
 ## 📜 License
 
 This project is licensed for **educational and research purposes only**.  
