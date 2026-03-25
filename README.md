@@ -1,4 +1,4 @@
-# 🌍 Student Hackathon 2025 
+# 🌍 META × Starbucks Student Hackathon 2025 
 <br>
 
 ##  🕶️☕ StarBrew Lens - An AR Powered Ordering Experience
